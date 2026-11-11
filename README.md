@@ -1,2 +1,2 @@
 # UniPlan-AI-project
-AI-powered study planner that helps university students manage assignments, track deadlines, and create personalized study schedules.
+UniPlan AI is an intelligent study planning platform designed for university students. It uses Artificial Intelligence to analyze course syllabi, extract assignment deadlines, organize academic tasks, and generate personalized weekly study schedules. The platform helps students manage their time, stay organized, and improve their academic productivity.
